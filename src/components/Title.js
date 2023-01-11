@@ -12,6 +12,7 @@ const styles = StyleSheet.create({
   title: {
     maxWidth: '80%',
     padding: 12,
+    margin: 60,
     borderWidth: Platform.select({ios: 0, android: 2}),
     borderColor: Colors.primary111,
     color: Colors.primary111,

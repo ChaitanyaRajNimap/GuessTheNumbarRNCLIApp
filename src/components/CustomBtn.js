@@ -15,7 +15,7 @@ function CustomBtn({text, onPress}) {
 export default CustomBtn;
 
 const styles = StyleSheet.create({
-  outerBtnContainer: {borderRadius: 30, margin: 5, overflow: 'hidden'},
+  outerBtnContainer: {borderRadius: 30, margin: 5, flex: 1, overflow: 'hidden'},
   innerBtnContainer: {
     paddingVertical: 10,
     paddingHorizontal: 16,

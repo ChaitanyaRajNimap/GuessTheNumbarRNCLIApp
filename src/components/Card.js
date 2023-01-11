@@ -12,8 +12,7 @@ const styles = StyleSheet.create({
   card: {
     padding: 16,
     borderRadius: 10,
-    marginTop: 36,
-    marginHorizontal: 24,
+    marginHorizontal: 54,
     alignItems: 'center',
     backgroundColor: Colors.primary800,
     justifyContent: 'center',
